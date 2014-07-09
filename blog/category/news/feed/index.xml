@@ -8,27 +8,26 @@
      >
   <channel>
     <title>Odooing</title>
-    <link>http://dreispt.github.io/blog</link>
+    <link>https://odooing.com/blog</link>
     <description>Riding the Odoo wave</description>
-    <pubDate>Qua, 09 Jul 2014 19:47:12 GMT</pubDate>
+    <pubDate>Qua, 09 Jul 2014 22:38:21 GMT</pubDate>
     <generator>Blogofile</generator>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
       <title>Brave New Odooing!</title>
-      <link>http://dreispt.github.io/blog/2014/07/06/brave-new-odooing</link>
+      <link>https://odooing.com/blog/2014/07/06/brave-new-odooing</link>
       <pubDate>Dom, 06 Jul 2014 20:58:26 WEST</pubDate>
       <category><![CDATA[news]]></category>
+      <category><![CDATA[odoo]]></category>
       <guid isPermaLink="false">ggWZpsXNba8UCzgumQyMMFeMAK8=</guid>
       <description>Brave New Odooing!</description>
-      <content:encoded><![CDATA[<div class="document">
-<p>As you may already know, OpenERP is now <a class="reference external" href="https://www.odoo.com/blog/Odoo-Blog-1/post/Odoo-The-New-OpenERP-156">Odoo</a>.
-I already had in mind to move <a class="reference external" href="http://openerpmanagementsystem.blogspot.com">my previous blog</a>,
-so I figure this should be perfect time to do so.</p>
-<p>So, here you go, welcome to the Odooing blog.
-Happy Odooing!</p>
-</div>
-]]></content:encoded>
+      <content:encoded><![CDATA[<p>The news is out: <strong>Odoo</strong> is now the <a href="https://www.odoo.com/blog/Odoo-Blog-1/post/Odoo-The-New-OpenERP-156">new name for Openerp</a>.
+In the photo you can see Xavier Pansaers in the OpenDays, putting the last stones on OpenERP an welcoming the new Odoo brand.</p>
+<p>I figure this is a perfect time to renew the <a href="http://openerpmanagementsystem.blogspot.com">OpenERP Management System blog</a>.
+So here it is: new name and new layout.</p>
+<p>Keep following us and happy Odooing!</p>
+<p><img alt="RIP OpenERP" src="/img/20140623-RIP-OpenERP.jpg" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>

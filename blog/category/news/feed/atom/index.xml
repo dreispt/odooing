@@ -7,31 +7,30 @@
   <title type="text">Odooing</title>
   <subtitle type="text">Riding the Odoo wave</subtitle>
 
-  <updated>2014-07-09T19:47:12Z</updated>
+  <updated>2014-07-09T22:38:21Z</updated>
   <generator uri="http://blogofile.com/">Blogofile</generator>
 
-  <link rel="alternate" type="text/html" href="http://dreispt.github.io/blog" />
-  <id>http://dreispt.github.io/blog/feed/atom/</id>
-  <link rel="self" type="application/atom+xml" href="http://dreispt.github.io/blog/feed/atom/" />
+  <link rel="alternate" type="text/html" href="https://odooing.com/blog" />
+  <id>https://odooing.com/blog/feed/atom/</id>
+  <link rel="self" type="application/atom+xml" href="https://odooing.com/blog/feed/atom/" />
   <entry>
     <author>
       <name></name>
-      <uri>http://dreispt.github.io/blog</uri>
+      <uri>https://odooing.com/blog</uri>
     </author>
     <title type="html"><![CDATA[Brave New Odooing!]]></title>
-    <link rel="alternate" type="text/html" href="http://dreispt.github.io/blog/2014/07/06/brave-new-odooing" />
-    <id>http://dreispt.github.io/blog/2014/07/06/brave-new-odooing</id>
+    <link rel="alternate" type="text/html" href="https://odooing.com/blog/2014/07/06/brave-new-odooing" />
+    <id>https://odooing.com/blog/2014/07/06/brave-new-odooing</id>
     <updated>2014-07-06T20:58:26Z</updated>
     <published>2014-07-06T20:58:26Z</published>
-    <category scheme="http://dreispt.github.io/blog" term="news" />
+    <category scheme="https://odooing.com/blog" term="news" />
+    <category scheme="https://odooing.com/blog" term="odoo" />
     <summary type="html"><![CDATA[Brave New Odooing!]]></summary>
-    <content type="html" xml:base="http://dreispt.github.io/blog/2014/07/06/brave-new-odooing"><![CDATA[<div class="document">
-<p>As you may already know, OpenERP is now <a class="reference external" href="https://www.odoo.com/blog/Odoo-Blog-1/post/Odoo-The-New-OpenERP-156">Odoo</a>.
-I already had in mind to move <a class="reference external" href="http://openerpmanagementsystem.blogspot.com">my previous blog</a>,
-so I figure this should be perfect time to do so.</p>
-<p>So, here you go, welcome to the Odooing blog.
-Happy Odooing!</p>
-</div>
-]]></content>
+    <content type="html" xml:base="https://odooing.com/blog/2014/07/06/brave-new-odooing"><![CDATA[<p>The news is out: <strong>Odoo</strong> is now the <a href="https://www.odoo.com/blog/Odoo-Blog-1/post/Odoo-The-New-OpenERP-156">new name for Openerp</a>.
+In the photo you can see Xavier Pansaers in the OpenDays, putting the last stones on OpenERP an welcoming the new Odoo brand.</p>
+<p>I figure this is a perfect time to renew the <a href="http://openerpmanagementsystem.blogspot.com">OpenERP Management System blog</a>.
+So here it is: new name and new layout.</p>
+<p>Keep following us and happy Odooing!</p>
+<p><img alt="RIP OpenERP" src="/img/20140623-RIP-OpenERP.jpg" /></p>]]></content>
   </entry>
 </feed>
