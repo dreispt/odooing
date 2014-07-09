@@ -19,7 +19,7 @@
 #  If you're hosting a blogofile powered site as a subdirectory of a larger
 #  non-blogofile site, then you would set the site_url to the full URL
 #  including that subdirectory: "http://www.yoursite.com/path/to/blogofile-dir"
-site.url = "http://dreispt.github.io"
+site.url = "https://odooing.com"
 
 ## site.author -- Your name, the author of the website.
 # This is optional. If set to anything other than None, the
@@ -57,6 +57,8 @@ blog.description = "Riding the Odoo wave"
 blog.timezone = "Europe/Lisbon"
 
 blog.posts_per_page = 5
+blog.post_excerpts.enabled = True
+blog.post_excerpts.word_length = 25
 
 ## blog_googleanaltics_id -- enable Google Analytics tracking
 ## TODO: move to plugin/filter?

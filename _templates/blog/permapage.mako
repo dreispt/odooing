@@ -1,6 +1,7 @@
 <%inherit file="bf_base_template" />
 <%include file="post.mako" args="post=post" />
 % if bf.config.blog.disqus.enabled:
+<hr/>
 <div id="disqus_thread"></div>
 <script type="text/javascript">
   var disqus_url = "${post.permalink}";
