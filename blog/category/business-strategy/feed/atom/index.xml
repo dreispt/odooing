@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-     >
-  <channel>
-    <title>Odooing</title>
-    <link>https://odooing.com/blog</link>
-    <description>Riding the Odoo wave</description>
-    <pubDate>Qui, 10 Jul 2014 23:07:21 GMT</pubDate>
-    <generator>Blogofile</generator>
-    <sy:updatePeriod>hourly</sy:updatePeriod>
-    <sy:updateFrequency>1</sy:updateFrequency>
-    <item>
-      <title>Odoo Strategy and Direction - are "Open" and "ERP" gone?</title>
-      <link>https://odooing.com/blog/2014/07/10/odoo-strategy-and-direction:-are-open-and-erp-gone</link>
-      <pubDate>Qui, 10 Jul 2014 21:26:58 WEST</pubDate>
-      <category><![CDATA[business strategy]]></category>
-      <category><![CDATA[odoo]]></category>
-      <guid isPermaLink="false">v-hWacOw29PcEr81hZp8y2BwBBM=</guid>
-      <description>Odoo Strategy and Direction - are "Open" and "ERP" gone?</description>
-      <content:encoded><![CDATA[<p><img src="/img/20140623-Odoo.jpg" alt="Odoo OpenDays 2014" class="img-thumbnail"></p>
+<feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+   >
+  <title type="text">Odooing</title>
+  <subtitle type="text">Riding the Odoo wave</subtitle>
+
+  <updated>2014-07-10T23:07:21Z</updated>
+  <generator uri="http://blogofile.com/">Blogofile</generator>
+
+  <link rel="alternate" type="text/html" href="https://odooing.com/blog" />
+  <id>https://odooing.com/blog/feed/atom/</id>
+  <link rel="self" type="application/atom+xml" href="https://odooing.com/blog/feed/atom/" />
+  <entry>
+    <author>
+      <name></name>
+      <uri>https://odooing.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Odoo Strategy and Direction - are "Open" and "ERP" gone?]]></title>
+    <link rel="alternate" type="text/html" href="https://odooing.com/blog/2014/07/10/odoo-strategy-and-direction:-are-open-and-erp-gone" />
+    <id>https://odooing.com/blog/2014/07/10/odoo-strategy-and-direction:-are-open-and-erp-gone</id>
+    <updated>2014-07-10T21:26:58Z</updated>
+    <published>2014-07-10T21:26:58Z</published>
+    <category scheme="https://odooing.com/blog" term="business strategy" />
+    <category scheme="https://odooing.com/blog" term="odoo" />
+    <summary type="html"><![CDATA[Odoo Strategy and Direction - are "Open" and "ERP" gone?]]></summary>
+    <content type="html" xml:base="https://odooing.com/blog/2014/07/10/odoo-strategy-and-direction:-are-open-and-erp-gone"><![CDATA[<p><img src="/img/20140623-Odoo.jpg" alt="Odoo OpenDays 2014" class="img-thumbnail"></p>
 <p>OpenERP has become Odoo.
 And the <a href="https://www.odoo.com/blog/Odoo-News-5/post/Odoo-The-New-OpenERP-156">purpose</a> was to remove both "Open" and "ERP" from the brand.</p>
 <p>But why?
@@ -90,22 +94,6 @@ That's something to be excited about!</p>
 style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/openobject/keynote02" title="Odoo Strategy and Roadmap" target="_blank">Odoo Strategy and Roadmap</a> </strong> from <strong><a href="http://www.slideshare.net/openobject" target="_blank">Odoo</a></strong> </div></strong>
 </div>
 
-<p>There is also a <a href="https://www.youtube.com/user/OpenERPonline">video recording</a> available.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Brave New Odooing!</title>
-      <link>https://odooing.com/blog/2014/07/06/brave-new-odooing</link>
-      <pubDate>Dom, 06 Jul 2014 20:58:26 WEST</pubDate>
-      <category><![CDATA[news]]></category>
-      <category><![CDATA[odoo]]></category>
-      <guid isPermaLink="false">ggWZpsXNba8UCzgumQyMMFeMAK8=</guid>
-      <description>Brave New Odooing!</description>
-      <content:encoded><![CDATA[<p>The news is out: <strong>Odoo</strong> is now the <a href="https://www.odoo.com/blog/Odoo-Blog-1/post/Odoo-The-New-OpenERP-156">new name for Openerp</a>.
-In the photo you can see Xavier Pansaers in the OpenDays, putting the last stones on OpenERP an welcoming the new Odoo brand.</p>
-<p>I figure this is a perfect time to renew the <a href="http://openerpmanagementsystem.blogspot.com">OpenERP Management System blog</a>.
-So here it is: new name and new layout.</p>
-<p>Keep following us and happy Odooing!</p>
-<p><img alt="RIP OpenERP" src="/img/20140623-RIP-OpenERP.jpg" /></p>]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+<p>There is also a <a href="https://www.youtube.com/user/OpenERPonline">video recording</a> available.</p>]]></content>
+  </entry>
+</feed>

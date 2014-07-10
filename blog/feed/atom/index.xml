@@ -7,12 +7,95 @@
   <title type="text">Odooing</title>
   <subtitle type="text">Riding the Odoo wave</subtitle>
 
-  <updated>2014-07-09T22:38:21Z</updated>
+  <updated>2014-07-10T23:07:21Z</updated>
   <generator uri="http://blogofile.com/">Blogofile</generator>
 
   <link rel="alternate" type="text/html" href="https://odooing.com/blog" />
   <id>https://odooing.com/blog/feed/atom/</id>
   <link rel="self" type="application/atom+xml" href="https://odooing.com/blog/feed/atom/" />
+  <entry>
+    <author>
+      <name></name>
+      <uri>https://odooing.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Odoo Strategy and Direction - are "Open" and "ERP" gone?]]></title>
+    <link rel="alternate" type="text/html" href="https://odooing.com/blog/2014/07/10/odoo-strategy-and-direction:-are-open-and-erp-gone" />
+    <id>https://odooing.com/blog/2014/07/10/odoo-strategy-and-direction:-are-open-and-erp-gone</id>
+    <updated>2014-07-10T21:26:58Z</updated>
+    <published>2014-07-10T21:26:58Z</published>
+    <category scheme="https://odooing.com/blog" term="business strategy" />
+    <category scheme="https://odooing.com/blog" term="odoo" />
+    <summary type="html"><![CDATA[Odoo Strategy and Direction - are "Open" and "ERP" gone?]]></summary>
+    <content type="html" xml:base="https://odooing.com/blog/2014/07/10/odoo-strategy-and-direction:-are-open-and-erp-gone"><![CDATA[<p><img src="/img/20140623-Odoo.jpg" alt="Odoo OpenDays 2014" class="img-thumbnail"></p>
+<p>OpenERP has become Odoo.
+And the <a href="https://www.odoo.com/blog/Odoo-News-5/post/Odoo-The-New-OpenERP-156">purpose</a> was to remove both "Open" and "ERP" from the brand.</p>
+<p>But why?
+Will it stop being focused on ERP features?
+Will it stop being open source?
+What does this mean for the company future direction?</p>
+<p>From all of Fabien's public statements and all OpenDays presentations and interactions,
+I'm pretty sure that that's not the case:
+despite the name change, Odoo is and will be totally free-libre open source, and the product
+main focus will keep being the ERP features.</p>
+<p><strong>Odoo will keep the focus on ERP</strong></p>
+<p>The new v8 flagship features are the CMS and ecommerce.
+But ERP will still be a keepy differentiator from the other products in that space, such as Django and Magento.
+More important than that, the revenue driver will be ERP, not CMS/ecommerce.</p>
+<p>The front end features will bring little revenue by themselves.
+The two users from the free plan are enough for anynone to create an online shop.</p>
+<p>But they can draw interest from a whole new universe of users.
+The purpose for the CMS and ecommerce is to tap at the huge CMS market to explode in number of Odoo users.
+In the end, the more users you have, the more likely you'll also increase the paying customers.</p>
+<p>And these upgardes from the free plan will come mostly because of the integrated back end features:
+invoicing, logistics, accounting.</p>
+<p>There is a strategic bet on the new CMS and ecommerce features.
+But it's still the ERP backend that makes it different from competitors and drives the revenue.</p>
+<p><img src="/img/20140623-Developers.jpg" alt="Developers, developers, developers!" class="thumbnail" width="70%"></p>
+<p><strong>Developers, developers, developers!</strong></p>
+<p>That  was the line (re)used by Antony Lesuisse.</p>
+<p>Odoo wants more developers working with the product.
+More developers means more modules and features, more mind share, more deployments,
+and in the end of the day, more users.</p>
+<p>The open source model is a key part for that.
+Odoo will continue to be totally free-libre open source.
+Not only it will be kept, but it will be reinforced.</p>
+<p>The sudden (and hasty) move of the source code to GitHub means to 
+increase the product's visibility to developers, and to make it easier to contribute.</p>
+<p>The new API can make Odoo more atractive for new developers: it's more pythonic and it's,
+more likely to appeal to people coming from Django.</p>
+<p><strong>Content, content, content!</strong></p>
+<p>No one from Odoo actually used that line, but it could easily have come out from Alexandre Vandermeersch.
+Alexandre is the new Chief Marketing Officer, and for me he was one of the best news from the event.
+He believes the best marketing for Odoo is content: tutorials, documentation, white papers for end users and developers.</p>
+<p>Helping new people to get up and running faster with Odoo will support the overall strategy
+for user base growth, and it will be what the marketing team will be devoted to.</p>
+<p>More and better content, smart marketing, and great news.</p>
+<p><strong>How to burn 10 million dollars?</strong></p>
+<p>This was an actual line from Fabien when presenting the priorities for v9.
+While another revolution has been promised for v9, the priorities presented
+are mostly about rounding the corners for the user interface and 
+the v8 novelties: website builder and new API.
+And that's good news.</p>
+<p>One of the main investments for v9 will be on Accounting:
+the goal is for the core to support the account needs for 8 major countries,
+replacing community accounting localizations. And in the build a solid core for that.
+This confirms the ERP focus and addresses one of the main weaknesses of the product - official localization support.
+How the Partners and Community will be participate in this process is a critical question that will need to be 
+addresses in the way.</p>
+<p>Another investment area worth highlighting is the GUI layer:
+Right now, Odoo feels like having two user interfaces - one for frontend and another for the backend.
+Making the look and work seamlessly will be a big improvement, and will probably make all website page design
+capabilities available to backend's regular forms.
+That's something to be excited about!</p>
+<p><strong>Show me the slides!</strong></p>
+<p>Fabien's keynote on Odoo Roadmap and Strategy is worth a look.</p>
+<div class="embed-responsive embed-responsive-4by3">
+<iframe src="//www.slideshare.net/slideshow/embed_code/35515755" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/openobject/keynote02" title="Odoo Strategy and Roadmap" target="_blank">Odoo Strategy and Roadmap</a> </strong> from <strong><a href="http://www.slideshare.net/openobject" target="_blank">Odoo</a></strong> </div></strong>
+</div>
+
+<p>There is also a <a href="https://www.youtube.com/user/OpenERPonline">video recording</a> available.</p>]]></content>
+  </entry>
   <entry>
     <author>
       <name></name>

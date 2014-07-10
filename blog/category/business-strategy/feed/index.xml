@@ -92,20 +92,5 @@ style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-wid
 
 <p>There is also a <a href="https://www.youtube.com/user/OpenERPonline">video recording</a> available.</p>]]></content:encoded>
     </item>
-    <item>
-      <title>Brave New Odooing!</title>
-      <link>https://odooing.com/blog/2014/07/06/brave-new-odooing</link>
-      <pubDate>Dom, 06 Jul 2014 20:58:26 WEST</pubDate>
-      <category><![CDATA[news]]></category>
-      <category><![CDATA[odoo]]></category>
-      <guid isPermaLink="false">ggWZpsXNba8UCzgumQyMMFeMAK8=</guid>
-      <description>Brave New Odooing!</description>
-      <content:encoded><![CDATA[<p>The news is out: <strong>Odoo</strong> is now the <a href="https://www.odoo.com/blog/Odoo-Blog-1/post/Odoo-The-New-OpenERP-156">new name for Openerp</a>.
-In the photo you can see Xavier Pansaers in the OpenDays, putting the last stones on OpenERP an welcoming the new Odoo brand.</p>
-<p>I figure this is a perfect time to renew the <a href="http://openerpmanagementsystem.blogspot.com">OpenERP Management System blog</a>.
-So here it is: new name and new layout.</p>
-<p>Keep following us and happy Odooing!</p>
-<p><img alt="RIP OpenERP" src="/img/20140623-RIP-OpenERP.jpg" /></p>]]></content:encoded>
-    </item>
   </channel>
 </rss>
