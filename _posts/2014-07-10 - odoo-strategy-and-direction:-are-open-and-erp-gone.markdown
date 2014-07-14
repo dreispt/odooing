@@ -66,7 +66,7 @@ more likely to appeal to people coming from Django.
 
 **Content, content, content!**
 
-No one from Odoo actually used that line, but it could easily have come out from Alexandre Vandermeersch.
+This was used by Fabien in his keynote on strategy, but it could have come out from Alexandre Vandermeersch.
 Alexandre is the new Chief Marketing Officer, and for me he was one of the best news from the event.
 He believes the best marketing for Odoo is content: tutorials, documentation, white papers for end users and developers.
 
