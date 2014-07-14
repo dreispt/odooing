@@ -7,7 +7,7 @@
   <title type="text">Odooing</title>
   <subtitle type="text">Riding the Odoo wave</subtitle>
 
-  <updated>2014-07-10T23:07:21Z</updated>
+  <updated>2014-07-14T21:09:08Z</updated>
   <generator uri="http://blogofile.com/">Blogofile</generator>
 
   <link rel="alternate" type="text/html" href="https://odooing.com/blog" />
@@ -64,7 +64,7 @@ increase the product's visibility to developers, and to make it easier to contri
 <p>The new API can make Odoo more atractive for new developers: it's more pythonic and it's,
 more likely to appeal to people coming from Django.</p>
 <p><strong>Content, content, content!</strong></p>
-<p>No one from Odoo actually used that line, but it could easily have come out from Alexandre Vandermeersch.
+<p>This was used by Fabien in his keynote on strategy, but it could have come out from Alexandre Vandermeersch.
 Alexandre is the new Chief Marketing Officer, and for me he was one of the best news from the event.
 He believes the best marketing for Odoo is content: tutorials, documentation, white papers for end users and developers.</p>
 <p>Helping new people to get up and running faster with Odoo will support the overall strategy
